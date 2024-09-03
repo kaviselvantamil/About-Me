@@ -1,7 +1,12 @@
 # 💫 About Me:
 Hi, i'm kaviselvan with a background in Electronics and Communication Engineering (ECE), I specialize in IoT, prototyping, and real-time hardware development.
-👨‍💻 Embedded System Developer
-💻 Embedded C Specialist<br>🌐 IoT Developer                                             🐍 Python & C Programmer<br>🔌 Digital Electronics Enthusiast                 🌱 Git User<br>📱 Software UI/UX Designer                         🎨 Digital Illustrator
+👨‍💻 Embedded System Developer<br>
+💻 Embedded C Specialist<br>🌐 IoT Developer<br>
+🐍 Python & C Programmer<br>
+🔌 Digital Electronics Enthusiast<br>
+🌱 Git User<br>
+📱 Software UI/UX Designer<br>
+🎨 Digital Illustrator
 
 
 ## 🌐 Socials:
